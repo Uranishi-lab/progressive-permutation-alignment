@@ -2,8 +2,8 @@
 
 **ACCV 2026** · Yuta Horioka\*, Naoya Chiba\*, Yuki Uranishi (The University of Osaka) · \*equal contribution
 
-[Project page](https://yuzu0308.github.io/progressive-permutation-alignment/) ·
-Paper (TODO) · Supplementary (TODO) · [Weights](https://huggingface.co/yuuxu/progressive-permutation-alignment)
+[Project page](https://uranishi-lab.github.io/progressive-permutation-alignment/) ·
+Paper (will be available) · [arXiv](https://arxiv.org/abs/2610.29396) · [Weights](https://huggingface.co/yuuxu/progressive-permutation-alignment)
 
 <p align="center"><img src="docs/static/img/overview.png" width="85%" alt="Method overview"></p>
 
